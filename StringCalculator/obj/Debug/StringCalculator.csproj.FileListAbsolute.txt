@@ -1,0 +1,7 @@
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb

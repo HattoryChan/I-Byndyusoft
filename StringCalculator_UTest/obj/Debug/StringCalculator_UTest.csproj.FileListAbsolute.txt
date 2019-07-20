@@ -1,0 +1,17 @@
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\obj\Debug\StringCalculator_UTest.csprojAssemblyReference.cache
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\obj\Debug\StringCalculator_UTest.csproj.CoreCompileInputs.cache
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\StringCalculator_UTest.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\StringCalculator_UTest.pdb
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\StringCalculator.exe
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\StringCalculator.pdb
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\StringCalculator.exe.config
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\obj\Debug\StringCalculator_UTest.csproj.CopyComplete
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\obj\Debug\StringCalculator_UTest.dll
+D:\Google Диск\visual studio project\C# Training Program\StringCalculator\StringCalculator_UTest\obj\Debug\StringCalculator_UTest.pdb
